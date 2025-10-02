@@ -3,13 +3,13 @@
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
     "versionCode": 15706420,
-    "updateUrl": "https://Telegram.me/fotball_kora",
-    "title": "🆕 تحديث جديد 🆕!",
-    "description": "تم اصلاح المشاكل.\n1.اصلاح مشكلة الانترنت \n2.عالم المصممين \n4.https://t.me/fotball_kora",
+    "updateUrl": "https://t.me/fotball_kora",
+    "title": "تحديث جديد NEW",
+    "description": "تم اصدار جديد من التطبيق يرجى التحديث الى احدث اصدار هو اصدار 20.7.0.",
     "isForce": true,
     "isExpired": true,
     "expiryDate": "2025-09-01",
-    "closeButtonText": "Exit",
-    "updateButtonText": "Update Now!"
+    "closeButtonText": "خروج",
+    "updateButtonText": "إظغط للتحديث"
   }
-  ] 
+]
